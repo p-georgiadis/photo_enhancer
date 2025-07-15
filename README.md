@@ -1,6 +1,7 @@
 # Photo Enhancer
 
 AI-powered photo enhancement using Real-ESRGAN and GFPGAN, optimized for RTX 3070 Ti.
+Author: Panagiotis 'Pano' Georgiadis
 
 ## Setup
 
