@@ -1,0 +1,36 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# PyCharm project files
+.idea/
+
+# Distribution and packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and local files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Exclude all photo files
+enhanced_photos/*.jpg
+!enhanced_photos/.gitkeep
+input_photos/*.jpg
+!input_photos/.gitkeep
+
+# Exclude model files and gfpgan weights
+models/*
+!models/.gitkeep
+gfpgan/
